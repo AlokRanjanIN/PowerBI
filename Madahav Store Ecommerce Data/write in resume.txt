@@ -1,2 +1,0 @@
-Analyzed e commerce sales data
-Created interactive dashboard using power bi
